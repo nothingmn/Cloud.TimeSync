@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud.TimeSync", "Cloud.TimeSync\Cloud.TimeSync.csproj", "{F010596F-750F-4B31-9B80-F4EBDBBAE026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud.TimeSync.Tests", "Cloud.TimeSync.Tests\Cloud.TimeSync.Tests.csproj", "{68095105-AA04-4938-8586-BB5D64C759AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F010596F-750F-4B31-9B80-F4EBDBBAE026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F010596F-750F-4B31-9B80-F4EBDBBAE026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F010596F-750F-4B31-9B80-F4EBDBBAE026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F010596F-750F-4B31-9B80-F4EBDBBAE026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68095105-AA04-4938-8586-BB5D64C759AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68095105-AA04-4938-8586-BB5D64C759AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68095105-AA04-4938-8586-BB5D64C759AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68095105-AA04-4938-8586-BB5D64C759AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
